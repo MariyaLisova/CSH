@@ -2,3 +2,13 @@ C:\Users\avali\OneDrive\Рабочий стол\CSHARP\Lesson1\Task2\obj\Debug\n
 C:\Users\avali\OneDrive\Рабочий стол\CSHARP\Lesson1\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
 C:\Users\avali\OneDrive\Рабочий стол\CSHARP\Lesson1\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
 C:\Users\avali\OneDrive\Рабочий стол\CSHARP\Lesson1\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\avali\OneDrive\Рабочий стол\CSHARP\Lesson1\Task2\bin\Debug\net7.0\Task2.exe
+C:\Users\avali\OneDrive\Рабочий стол\CSHARP\Lesson1\Task2\bin\Debug\net7.0\Task2.deps.json
+C:\Users\avali\OneDrive\Рабочий стол\CSHARP\Lesson1\Task2\bin\Debug\net7.0\Task2.runtimeconfig.json
+C:\Users\avali\OneDrive\Рабочий стол\CSHARP\Lesson1\Task2\bin\Debug\net7.0\Task2.dll
+C:\Users\avali\OneDrive\Рабочий стол\CSHARP\Lesson1\Task2\bin\Debug\net7.0\Task2.pdb
+C:\Users\avali\OneDrive\Рабочий стол\CSHARP\Lesson1\Task2\obj\Debug\net7.0\Task2.dll
+C:\Users\avali\OneDrive\Рабочий стол\CSHARP\Lesson1\Task2\obj\Debug\net7.0\refint\Task2.dll
+C:\Users\avali\OneDrive\Рабочий стол\CSHARP\Lesson1\Task2\obj\Debug\net7.0\Task2.pdb
+C:\Users\avali\OneDrive\Рабочий стол\CSHARP\Lesson1\Task2\obj\Debug\net7.0\Task2.genruntimeconfig.cache
+C:\Users\avali\OneDrive\Рабочий стол\CSHARP\Lesson1\Task2\obj\Debug\net7.0\ref\Task2.dll
