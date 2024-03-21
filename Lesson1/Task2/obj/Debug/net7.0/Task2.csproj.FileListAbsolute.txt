@@ -1,0 +1,4 @@
+C:\Users\avali\OneDrive\Рабочий стол\CSHARP\Lesson1\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avali\OneDrive\Рабочий стол\CSHARP\Lesson1\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+C:\Users\avali\OneDrive\Рабочий стол\CSHARP\Lesson1\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+C:\Users\avali\OneDrive\Рабочий стол\CSHARP\Lesson1\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
